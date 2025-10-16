@@ -6,7 +6,7 @@ It covers the core concepts required to build automation scripts for tools like 
 
 ---
 
-## 📚 Topics Covered
+## 📚 Topics
 
 | No. | Topic | Description |
 |:---:|:------|:-------------|
