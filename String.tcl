@@ -44,3 +44,7 @@ puts [string range $word 4 11]  ;# Prints "Beginner"
 set sentence "TCL is fun"
 set words [split $sentence] 
 puts $words
+
+# Steps to run 
+# 1 -> open terminal
+# 2 -> type : tclsh filename.tcl
