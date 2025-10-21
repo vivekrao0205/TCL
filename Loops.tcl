@@ -73,3 +73,5 @@ while {1} {                 ;# 1 means true, so loop runs forever
         break
     }
 }
+
+#few basic examples of loops
