@@ -1,4 +1,4 @@
-# TCL List Examples
+# List Examples 
 
 # 1. Create a list of characters
 set characters {Eren Mikasa Levi}
@@ -28,7 +28,7 @@ set str [join $characters ", "]
 puts "Team members: $str"   ;# Prints: Team members: Eren, Mikasa, Levi, Armin
 
 # 7. Convert a string into a list
-set text "Hange Jean Sasha"
+set text "Im Vivek titan"
 set newTeam [split $text]
 puts $newTeam   ;# Prints: Hange Jean Sasha
 
@@ -46,3 +46,4 @@ if {$index >= 0} {
 } else {
     puts "Levi is not in the team"
 }
+
