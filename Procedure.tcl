@@ -1,3 +1,5 @@
+#procedures
+
 # 1. A simple procedure with no arguments
 proc sayHello {} {
     puts "Hello, this is a procedure"
