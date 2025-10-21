@@ -37,4 +37,4 @@ puts "Array after deleting enableLogs:"
 parray config
 
 # Delete the entire array if needed
-# unset config                ;# Uncomment this line to remove the whole array
+# unset config                ;# Uncomment this line to remove the array
